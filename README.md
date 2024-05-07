@@ -37,4 +37,3 @@ Further improvements can be achieved by collecting more extensive weather data a
 ## How to Use
 Details on how to set up and run the model can be found in the repository's documentation.
 
-``
